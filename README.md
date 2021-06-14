@@ -16,6 +16,11 @@
 [**JaMathClient - Collab**](https://JaMathClient.it)
 <br>**Stato**: In Sviluppo                 
 
+<h2 align="center"> Linguaggi che sto studiando: </h2>
+<p align="center"> 
+<img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c++&logoColor=white" />
+</p>
+
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=gradient&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" />
 <hr>
