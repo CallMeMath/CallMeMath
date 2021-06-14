@@ -5,7 +5,7 @@
 <h2 align="center"> In cosa programmo: </h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/"Python-020265?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/"Python-ED8B00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <h2 align="center"> Alcuni miei progetti: </h2>
