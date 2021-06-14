@@ -1,4 +1,4 @@
-<h1 align="center">Benvenuto nel mio profilo 👀</h1>
+<h1 align="center">Benvenuto nel mio profilo </h1>
 <p align="center"> 
 </p>
 
@@ -17,5 +17,5 @@
 <br>**Stato**: In Sviluppo                 
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=gradient&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=gradient&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" />
 <hr>
