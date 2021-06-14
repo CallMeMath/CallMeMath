@@ -2,13 +2,13 @@
 <p align="center"> 
 </p>
 
-<h2 align="center"> In cosa programmo: </h2>
+<h2 align="center"> Linguaggi che conosco: </h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-000255?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h2 align="center"> Alcuni miei progetti: </h2>
+<h2 align="center"> Cosa ho programmato </h2>
 
 [**JoinAndQuitCustom - SpigotMC**](https://github.com/IM4th3w/JoinAndQuitCustom)
 <br>**Stato**: Finito
