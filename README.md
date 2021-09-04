@@ -13,9 +13,6 @@
 [**JoinAndQuitCustom - SpigotMC**](https://github.com/IM4th3w/JoinAndQuitCustom)
 <br>**Stato**: Finito
                   
-[**JaMathClient - Collab**](https://JaMathClient.it)
-<br>**Stato**: In Sviluppo                 
-
 <h2 align="center"> Linguaggi che sto studiando: </h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c++&logoColor=white" />
