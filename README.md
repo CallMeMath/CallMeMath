@@ -21,6 +21,6 @@
 </p>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=radical&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CallMeMath&theme=radical&show_icons=true&custom_title=Statistiche di CallMeMath&count_private=true" />
 <hr>
 
