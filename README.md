@@ -1,6 +1,4 @@
-<h1 align="center">Benvenuto nel mio profilo 👀 </h1>
-<p align="center"> 
-</p>
+### wassup 👋
 
 <h2 align="center"> Linguaggi che conosco: </h2>
 <p align="center"> 
