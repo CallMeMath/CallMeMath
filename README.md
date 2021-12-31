@@ -2,12 +2,15 @@
 
 ![CallMeMath Stats](https://github-readme-stats.vercel.app/api?username=CallMeMath&show_icons=true&theme=radical)
 
-![Lang I Know](<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />, <img src="https://img.shields.io/badge/Python-000255?style=for-the-badge&logo=python&logoColor=white" /> </p>)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-000255?style=for-the-badge&logo=python&logoColor=white" />
+</p>)
 
 <h2 align="center"> Cosa ho programmato </h2>
 
 [**JoinAndQuitCustom - SpigotMC**](https://github.com/IM4th3w/JoinAndQuitCustom)
 <br>**Stato**: Finito
+</p>
 [**TextSpammer - Python**](https://github.com/IM4th3w/TextSpammer)
 <br>**Stato**: Finito
                   
