@@ -12,7 +12,7 @@
 
 [**JoinAndQuitCustom - SpigotMC**](https://github.com/IM4th3w/JoinAndQuitCustom)
 <br>**Stato**: Finito
-[**\nTextSpammer - Python**](https://github.com/IM4th3w/TextSpammer)
+[**TextSpammer - Python**](https://github.com/IM4th3w/TextSpammer)
 <br>**Stato**: Finito
                   
 <h2 align="center"> Linguaggi che sto studiando: </h2>
@@ -21,6 +21,6 @@
 </p>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=gradient&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IM4th3w&theme=radical&show_icons=true&custom_title=Statistiche di IM4th3w&count_private=true" />
 <hr>
 
