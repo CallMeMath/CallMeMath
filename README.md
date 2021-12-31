@@ -12,6 +12,8 @@
 
 [**JoinAndQuitCustom - SpigotMC**](https://github.com/IM4th3w/JoinAndQuitCustom)
 <br>**Stato**: Finito
+[**TextSpammer - Python**](https://github.com/IM4th3w/TextSpammer)
+<br>**Stato**: Finito
                   
 <h2 align="center"> Linguaggi che sto studiando: </h2>
 <p align="center"> 
