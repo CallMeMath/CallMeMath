@@ -1,10 +1,11 @@
-### wassup 👋
+### Wassup 👋
 
-![CallMeMath Stats](https://github-readme-stats.vercel.app/api?username=CallMeMath&show_icons=true&theme=radical)
+![CallMeMath Stats](https://github-readme-stats.vercel.app/api?username=callmemath&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning: C++
-- 💻 What I developed: [**JoinAndQuitCustom - SpigotMC**](https://github.com/CallMeMath/JoinAndQuitMessage) <br>
+- 💻 What I developed: [**CEO - SolarStudio®**](https://discord.gg/solarstudio) <br>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;  [**JoinAndQuitCustom - SpigotMC**](https://github.com/CallMeMath/JoinAndQuitMessage)
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;  [**TextSpammer**](https://github.com/CallMeMath/TextSpammer)
-- 📫 How to reach me: [**@mathpazzosgravato**](t.me/mathpazzosgravato) <br>
- &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp; CallMeMath#3192
+- 📫 How to reach me: [**SolarStudio® - *Powering Your Future***](https://discord.gg/solarstudio) <br>
+ &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp; maaath_
 
